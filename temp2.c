@@ -2,6 +2,6 @@
 
 int main(void){
 
-	printf("你是谁");
+	printf("你是谁\n");
 	return 0;
 }
