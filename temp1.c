@@ -6,7 +6,7 @@ int main(void){
 		printf("hello world!!!\n");
 
 	printf("hello world!second\n");
-	printf("for branch and!!!");
+	printf("for branch and!");
 
 	return 0;
 }
